@@ -15,7 +15,7 @@ I specialize in **Deep Learning**, **Semantic Segmentation**, and **Image Enhanc
 💡 My work has achieved:
 - **99% image dehazing accuracy**
 - **+4% mIoU improvement** in segmentation
-- **IEEE SCEECS 2025 publication** (adopted in 16+ studies)
+- **IEEE SCEECS 2025 publication** 
 
 ---
 
@@ -64,8 +64,6 @@ I specialize in **Deep Learning**, **Semantic Segmentation**, and **Image Enhanc
 ### 🏆 Achievements
 
 - 🎓 **Published research** at IEEE SCEECS 2025, recognized by **IEEE MANIT Student Branch**
-- 📈 **Cited in 16+ subsequent studies** and shortlisted for *Signal Processing Journal*
-- 🥈 Secured **2nd place** in a segmentation-based model competition
 - 🚀 Continuously improving open-source models on **GitHub**
 
 ---
@@ -76,7 +74,7 @@ I specialize in **Deep Learning**, **Semantic Segmentation**, and **Image Enhanc
 *VIT Bhopal University* — CGPA: **8.63** *(2023 – Present)*  
 
 **Delhi Public School, Vadodara**  
-- Class 12th — 79% (2023)  
+- Class 12th — 78% (2023)  
 - Class 10th — 92% (2021)  
 
 ---
