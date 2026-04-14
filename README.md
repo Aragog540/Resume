@@ -1,99 +1,88 @@
-# 👋 Hi, I'm Swaroop Bhowmik
+# 📄 Swaroop Bhowmik — Resume
 
-### 🚀 AI/ML Engineer | Deep Learning Researcher | Computer Vision Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swaroop%20Bhowmik-blue?style=flat&logo=linkedin)](https://linkedin.com/in/swaroop-bhowmik-8907b52a0)
-[![GitHub](https://img.shields.io/badge/GitHub-Aragog540-black?style=flat&logo=github)](https://github.com/Aragog540)
-[![Email](https://img.shields.io/badge/Email-swaroopbhowmik7%40gmail.com-red?style=flat&logo=gmail)](mailto:swaroopbhowmik7@gmail.com)
+> AI/ML Undergraduate | Python · TensorFlow · RAG Pipelines · Deep Learning
 
 ---
 
-### 🧠 About Me
-I’m an **AI/ML Engineer** passionate about building intelligent vision systems that make a real-world impact.  
-I specialize in **Deep Learning**, **Semantic Segmentation**, and **Image Enhancement**, leveraging architectures like **U-Net**, **GANs**, and **attention-based models**.  
+## 👤 About
 
-💡 My work has achieved:
-- **99% image dehazing accuracy**
-- **+4% mIoU improvement** in segmentation
-- **IEEE SCEECS 2025 publication** 
+I'm an AI/ML undergraduate at **VIT Bhopal University** (B.Tech CSE with AI & ML, CGPA: 8.55), passionate about building intelligent systems — from deep learning models for computer vision to RAG-based medical chatbots. I have hands-on experience with the full ML pipeline: data engineering, model architecture, training optimization, and deployment.
 
----
-
-### 🧩 Technical Skills
-
-**Programming:** Python, Java, TensorFlow, NumPy, Pandas  
-**Deep Learning Frameworks:** TensorFlow, PyTorch  
-**Libraries & Tools:** OpenCV, CUDA, Git, Cursor  
-**ML Concepts:** Model Optimization, Data Augmentation, Semantic Segmentation, Image Classification, Benchmarking  
+📍 Agartala, Tripura, India  
+📧 swaroopbhowmik7@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/swaroop-bhowmik-8907b52a0) · [GitHub](https://github.com/Aragog540)
 
 ---
 
-### 🧪 Projects
+## 🛠️ Technical Skills
 
-#### 🛰️ [Satellite Image Dehazer](https://github.com/Aragog540/DeHazer-CED)
-**Deep Learning | GAN | TensorFlow | OpenCV | CUDA**
-
-- Designed an **Enhanced U-Net CNN** with dilated convolutions and Leaky ReLU, achieving **99% dehazing accuracy**
-- Built a **conditional GAN** with Cross-Scale Feature Fusion for RGB satellite enhancement  
-- Achieved a **4-point PSNR** and **0.03 SSIM** improvement  
-- Reduced model error by **8%** and accelerated training by **24%**
-- Published results in **IEEE SCEECS 2025**  
-  📄 [Research Paper](https://ieeexplore.ieee.org/document/10940251)
+| Area | Tools & Technologies |
+|---|---|
+| **Languages** | Python (5★ HackerRank) |
+| **Frameworks** | TensorFlow, Keras, FastAPI |
+| **Libraries** | NumPy, Pandas, Scikit-learn, HuggingFace, LangGraph |
+| **ML/AI** | RAG Pipelines, Transformers, Prompt Engineering, Semantic Segmentation, Image Classification |
+| **Other** | Git, REST APIs, ChromaDB, Ollama, PCA, K-Means |
 
 ---
 
-#### 🧠 [Enhanced Mamba Decoder (UNetMamba)](https://github.com/Aragog540/Sat-dhze)
-**Segmentation | TensorFlow | CUDA | OpenCV**
+## 🚀 Featured Projects
 
-- Integrated **multi-scale spatial attention** for improved context sensitivity  
-- Improved **mean IoU by 2–4%** on high-resolution datasets  
-- Increased **throughput by 34%** with crypto-efficient computation and **Test Time Augmentation**
+### 🛰️ Satellite Image Dehazer & Image Dehazer *(Oct 2024 – Apr 2025)*
+`Python` `TensorFlow` `Keras` `NumPy` `GANs`
 
----
-
-### 💼 Experience
-
-**Student Researcher** — *VIT Bhopal University*  
-📅 *Sep 2023 – Present | Bhopal, India*
-
-- Conducted research in **Computer Vision and Deep Learning**, resulting in an **IEEE SCEECS 2025 publication**
-- Collaborated with faculty and peers to present findings at academic conferences and seminars
+- Architected an **Enhanced U-Net** with dilated convolutions and Leaky ReLU — achieved **99% dehazing accuracy** with +4 PSNR and +0.03 SSIM over baseline
+- Built a **conditional GAN** with Cross-Scale Feature Fusion Blocks for RGB satellite enhancement — improved segmentation accuracy by **6%** and reduced model error by **8%**
+- Optimized the training pipeline via batch normalization tuning, accelerating convergence by **24%** and outperforming SOTA benchmarks on 3,000+ images
+- 📰 **Published** at IEEE SCEECS 2025: *Dual-Environment Dehazing Using Enhanced U-Net for Indoor and Outdoor Scenarios*
 
 ---
 
-### 🏆 Achievements
+### 👥 Customer Segmentation with Business Insight *(Oct 2025 – Jan 2026)*
+`Python` `Scikit-learn` `Pandas` `K-Means` `PCA`
 
-- 🎓 **Published research** at IEEE SCEECS 2025, recognized by **IEEE MANIT Student Branch**
-- 🚀 Continuously improving open-source models on **GitHub**
-
----
-
-### 🎓 Education
-
-**Bachelor of Technology in Computer Science & Engineering**  
-*VIT Bhopal University* — CGPA: **8.63** *(2023 – Present)*  
-
-**Delhi Public School, Vadodara**  
-- Class 12th — 78% (2023)  
-- Class 10th — 92% (2021)  
+- Designed an end-to-end segmentation pipeline on **2,200+ records** with RFM analysis, outlier handling, scaling, and clustering
+- Improved cluster separation score from **0.41 → 0.62** via feature optimization and K-Means vs Hierarchical Clustering comparison
+- Applied **PCA** for dimensionality reduction and translated clusters into actionable marketing strategies
 
 ---
 
-### 📜 Certifications
+### 🏥 AI-Powered Medical Chatbot with RAG Architecture *(Jan 2026 – Feb 2026)*
+`FastAPI` `LangGraph` `RAG` `Ollama` `ChromaDB`
 
-- 🧩 Python for Data Science, AI & Development — *IBM*  
-- 🧠 Git — *IBM*  
-- ☁️ Cloud Computing — *NPTEL*  
-
----
-
-### 🌐 Connect with Me
-
-📫 **Email:** [swaroopbhowmik7@gmail.com](mailto:swaroopbhowmik7@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/swaroop-bhowmik-8907b52a0](https://linkedin.com/in/swaroop-bhowmik-8907b52a0)  
-💻 **GitHub:** [github.com/Aragog540](https://github.com/Aragog540)
+- Built a **medical Q&A chatbot** using Retrieval-Augmented Generation on large PDF datasets
+- Implemented agentic workflow with **LangGraph** — document retrieval, relevance grading, and hallucination detection
+- Deployed a **fully local AI system** using Ollama + ChromaDB + FastAPI — zero external API cost
 
 ---
 
-⭐ *“Transforming ideas into intelligent systems.”*  
-s
+## 🏆 Achievements
+
+- 🥇 **Raman Research Award** — awarded by VIT Bhopal for IEEE publication
+- 🏛️ **Design Registration** — granted by the Patent Office, Government of India for *"Multipurpose Vegetable Chopping Board"* (2025)
+- 🎤 **Certificate of Presentation** — NEXGCI-2025, conducted by SCSET, Bennett University
+- 📄 **2 papers published** and indexed on IEEE Xplore
+
+---
+
+## 📚 Certifications
+
+- Python for Data Science, AI & Development — *IBM*
+- Git and GitHub — *IBM*
+- Cloud Computing — *IBM*
+- Generative AI — *Oracle*
+- Applied Machine Learning in Python — *University of Michigan*
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech CSE (AI & ML) | VIT Bhopal University | 2023 – Present | CGPA: 8.55 |
+| Class XII | Delhi Public School, Vadodara | 2023 | 78% |
+| Class X | Delhi Public School, Vadodara | 2021 | 94% |
+
+---
+
+*This repository contains my resume and related materials. Feel free to reach out via email or LinkedIn!*
