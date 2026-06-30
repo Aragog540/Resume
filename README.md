@@ -1,88 +1,170 @@
-# 📄 Swaroop Bhowmik — Resume
+# 👋 Hi, I'm Swaroop Bhowmik
 
-> AI/ML Undergraduate | Python · TensorFlow · RAG Pipelines · Deep Learning
+### AI/ML Engineer • GenAI Developer • Researcher
 
----
+I'm a final-year Computer Science (AI & ML) student at **VIT Bhopal** passionate about building production-ready AI systems, multi-agent architectures, and Retrieval-Augmented Generation (RAG) applications.
 
-## 👤 About
-
-I'm an AI/ML undergraduate at **VIT Bhopal University** (B.Tech CSE with AI & ML, CGPA: 8.55), passionate about building intelligent systems — from deep learning models for computer vision to RAG-based medical chatbots. I have hands-on experience with the full ML pipeline: data engineering, model architecture, training optimization, and deployment.
-
-📍 Agartala, Tripura, India  
-📧 swaroopbhowmik7@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/swaroop-bhowmik-8907b52a0) · [GitHub](https://github.com/Aragog540)
+I enjoy turning research ideas into scalable software that people can actually use.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-| Area | Tools & Technologies |
-|---|---|
-| **Languages** | Python (5★ HackerRank) |
-| **Frameworks** | TensorFlow, Keras, FastAPI |
-| **Libraries** | NumPy, Pandas, Scikit-learn, HuggingFace, LangGraph |
-| **ML/AI** | RAG Pipelines, Transformers, Prompt Engineering, Semantic Segmentation, Image Classification |
-| **Other** | Git, REST APIs, ChromaDB, Ollama, PCA, K-Means |
+* 🎓 B.Tech CSE (AI & ML), VIT Bhopal
+* 🤖 Building GenAI, Multi-Agent AI & RAG Systems
+* 📚 IEEE Published Researcher
+* 🏆 Raman Research Award Recipient
+* 🧠 Interested in LLM Systems, AI Infrastructure, and Applied Machine Learning
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Tech Stack
 
-### 🛰️ Satellite Image Dehazer & Image Dehazer *(Oct 2024 – Apr 2025)*
-`Python` `TensorFlow` `Keras` `NumPy` `GANs`
+### Languages
 
-- Architected an **Enhanced U-Net** with dilated convolutions and Leaky ReLU — achieved **99% dehazing accuracy** with +4 PSNR and +0.03 SSIM over baseline
-- Built a **conditional GAN** with Cross-Scale Feature Fusion Blocks for RGB satellite enhancement — improved segmentation accuracy by **6%** and reduced model error by **8%**
-- Optimized the training pipeline via batch normalization tuning, accelerating convergence by **24%** and outperforming SOTA benchmarks on 3,000+ images
-- 📰 **Published** at IEEE SCEECS 2025: *Dual-Environment Dehazing Using Enhanced U-Net for Indoor and Outdoor Scenarios*
+* Python
+* SQL
 
----
+### AI / ML
 
-### 👥 Customer Segmentation with Business Insight *(Oct 2025 – Jan 2026)*
-`Python` `Scikit-learn` `Pandas` `K-Means` `PCA`
+* LangGraph
+* LangChain
+* TensorFlow
+* Keras
+* Hugging Face
+* Scikit-learn
+* NumPy
+* Pandas
 
-- Designed an end-to-end segmentation pipeline on **2,200+ records** with RFM analysis, outlier handling, scaling, and clustering
-- Improved cluster separation score from **0.41 → 0.62** via feature optimization and K-Means vs Hierarchical Clustering comparison
-- Applied **PCA** for dimensionality reduction and translated clusters into actionable marketing strategies
+### Backend & Infrastructure
 
----
+* FastAPI
+* Docker
+* ChromaDB
+* Ollama
+* REST APIs
+* Server-Sent Events (SSE)
+* Git
 
-### 🏥 AI-Powered Medical Chatbot with RAG Architecture *(Jan 2026 – Feb 2026)*
-`FastAPI` `LangGraph` `RAG` `Ollama` `ChromaDB`
+### Areas of Interest
 
-- Built a **medical Q&A chatbot** using Retrieval-Augmented Generation on large PDF datasets
-- Implemented agentic workflow with **LangGraph** — document retrieval, relevance grading, and hallucination detection
-- Deployed a **fully local AI system** using Ollama + ChromaDB + FastAPI — zero external API cost
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Raman Research Award** — awarded by VIT Bhopal for IEEE publication
-- 🏛️ **Design Registration** — granted by the Patent Office, Government of India for *"Multipurpose Vegetable Chopping Board"* (2025)
-- 🎤 **Certificate of Presentation** — NEXGCI-2025, conducted by SCSET, Bennett University
-- 📄 **2 papers published** and indexed on IEEE Xplore
-
----
-
-## 📚 Certifications
-
-- Python for Data Science, AI & Development — *IBM*
-- Git and GitHub — *IBM*
-- Cloud Computing — *IBM*
-- Generative AI — *Oracle*
-- Applied Machine Learning in Python — *University of Michigan*
+* Large Language Models (LLMs)
+* Multi-Agent Systems
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* Semantic Search
+* Computer Vision
+* Deep Learning
 
 ---
 
-## 🎓 Education
+# 🚀 Featured Projects
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech CSE (AI & ML) | VIT Bhopal University | 2023 – Present | CGPA: 8.55 |
-| Class XII | Delhi Public School, Vadodara | 2023 | 78% |
-| Class X | Delhi Public School, Vadodara | 2021 | 94% |
+## 🧠 Tarka AI
+
+**Multi-Agent Research Platform**
+
+A production-grade research assistant powered by LangGraph that orchestrates specialized AI agents for searching, reasoning, validating, and summarizing information.
+
+### Highlights
+
+* Multi-Agent Architecture
+* LangGraph StateGraph
+* RAG Pipeline
+* Tavily Search
+* ChromaDB Semantic Cache
+* FastAPI Backend
+* SSE Streaming
+* Docker Deployment
+* Confidence-based Citation System
+
+**Tech:** LangGraph • FastAPI • ChromaDB • Docker • LangChain • Tavily • SSE
 
 ---
 
-*This repository contains my resume and related materials. Feel free to reach out via email or LinkedIn!*
+## 🩺 AI Medical Chatbot
+
+A fully local Retrieval-Augmented Generation chatbot capable of answering medical questions using PDF knowledge bases.
+
+### Features
+
+* Local LLM Inference
+* Hallucination Detection
+* Relevance Grading
+* PDF Knowledge Base
+* LangGraph Workflow
+
+**Tech:** FastAPI • Ollama • ChromaDB • LangGraph
+
+---
+
+## 🛰️ Satellite Image Dehazer
+
+Research project proposing a CNN-based cGAN with a Cross-Scale Feature Fusion Block for satellite image dehazing.
+
+### Achievements
+
+* PSNR: **26.1**
+* SSIM: **0.946**
+* Paper currently under review
+
+---
+
+## 🌫️ Dual Environment Image Dehazer
+
+Enhanced U-Net architecture for indoor and outdoor image dehazing.
+
+* IEEE Published Research
+* 2 dB PSNR improvement
+* 4% SSIM improvement over multiple state-of-the-art methods
+
+---
+
+# 📖 Publications
+
+* Dual-Environment Dehazing Using Enhanced U-Net for Indoor and Outdoor Scenarios (IEEE)
+* Hybrid Statistical-Neural Framework for Context-Aware Word Sense Disambiguation
+* Enhanced Satellite Image Dehazing using Cross-Scale Feature Fusion Block (Under Review)
+
+---
+
+# 🏆 Achievements
+
+* 🥇 Raman Research Award (VIT Bhopal)
+* 📄 IEEE Published Author
+* 🎤 Research Presentation at NEXGCI 2025
+* 🏅 Design Registration granted by the Patent Office of India
+
+---
+
+# 📜 Certifications
+
+* IBM — Python for Data Science, AI & Development
+* IBM — Cloud Computing
+* Oracle — Generative AI
+* University of Michigan — Applied Machine Learning in Python
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aragog540&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aragog540&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aragog540&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+* 💼 LinkedIn
+* 📧 [swaroopbhowmik7@gmail.com](mailto:swaroopbhowmik7@gmail.com)
+* 💻 GitHub: **Aragog540**
+
+---
+
+> *"Building AI that is practical, scalable, and useful—not just intelligent."*
